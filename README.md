@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there👋, I'm GuGus</h1>
-<h3 align="center">I am a FR system and network engineer and I touch a bit of everything</h3>
+<h3 align="center">I am a FR system and network engineer</h3>
 <p>&nbsp;</p>
 
 - 🔭 2023 Goal **Build more projects in Bash and contribute in Open Source**
