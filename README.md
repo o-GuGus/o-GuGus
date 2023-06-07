@@ -3,9 +3,6 @@
 <h3 align="center">I am a FR system and network engineer</h3>
 <p>&nbsp;</p>
 
-# <h1 align="center">Hi there👋, I'm GuGus</h1>
-## <h3 align="center">I am a FR system and network engineer</h3>
-
 - 🔭 2023 Goal **Build more projects in Bash and contribute in Open Source**
 
 - 🌱 I’m currently learning **Bash**
@@ -28,4 +25,3 @@
 
 <p>&nbsp;</p>
 Made with ❤, by GuGus
-    
